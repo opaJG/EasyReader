@@ -3,7 +3,8 @@ EasyReader is a free Android app for blind people and people with visual impairm
 
 ### Select a file with buttons "Select-" and "Select+"
 <img src="Select.png" Width=630 Height=296>
-###  Tap button "Start" to start listening or reading.
+
+### Tap button "Start" to start listening or reading.
 <img src="Reading.png" Width=630 Height=296>
 
 ## Possibilities are:
