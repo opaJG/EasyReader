@@ -8,7 +8,7 @@ This page is used to inform visitors regarding our policies with the collection,
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
 All data, app setting are created by the user and stored on your device only. They can be simply erased by clearing the app's data or uninstalling it.
-# We do not require or store any personal information.                 
+#### We do not require or store any personal information.                 
 The app does use third-party services that may collect information used to identify you.                  
 Link to the privacy policy of third-party service providers used by the app https://www.google.com/policies/privacy 
 Google Play Services
