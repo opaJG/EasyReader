@@ -1,6 +1,9 @@
 # EasyReader
 EasyReader is a free Android app for blind people and people with visual impairment.
 
+<img src="Select.png">
+<img src="Reading.png">
+
 ## Possibilities are:
 Four intuitively placed large format buttons allow the user to perform all the following actions:
 - Choose a file from the list of files. The files can be text files, but also images with text in them.
